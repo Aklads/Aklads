@@ -5,18 +5,22 @@
 - Desenvolvimento do meu website da loja de artesanato em biscuit;
 - Bot de interação e gestão no discord;
 - Servidor local com banco de dados.
+---
+<div align="center"> 
+  
+  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Aklads)
+  
+</div>
+
 
 ---
-
-<a position="center"> [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Aklads) </a>
-
-<div>
+<div align="center">
 <a href="https://github.com/Aklads">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklads&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Aklads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Contatos:
+---
 
 <div align="center">
 <a href="https://instagram.com/theruanbiscuit" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
