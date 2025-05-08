@@ -1,15 +1,16 @@
 
-# Olá! Bem vindo ao meu perfil no Github. <img loading="lazy" src="https://cdn.discordapp.com/emojis/1359138838907457756.gif?size=32&quality=lossless" width="30" height="30"/>
+# Olá! Bem vindo(a) ao meu perfil no Github. <img loading="lazy" src="https://cdn.discordapp.com/emojis/1359138838907457756.gif?size=32&quality=lossless" width="30" height="30"/>
 ### Meu nome é Ruan Martins, também conhecido como Aklads.
-🌱 No momento estou aprendendo de forma autodidata linguagem de programação, como JavaScript, HTML e CSS (fullstack), alguns de meus projetos são:
-- Desenvolvimento do meu website da loja de artesanato em biscuit;
-- Bot de interação e gestão no discord;
-- Servidor local com banco de dados.
+🌱 Atualmente, estou aprendendo programação de forma autodidata, com foco em linguagens como JavaScript, HTML e CSS (fullstack). 
+<br>Entre os projetos que venho desenvolvendo, estão:
+- Criação do site da minha loja de artesanato em biscuit;
+- Desenvolvimento de um bot para interação e gerenciamento em um servidor Discord;
+- Montagem de um servidor local com banco de dados para testes e experimentação.
 ---
 <div align="center"> 
   
   [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Aklads)
-  
+   
 </div>
 
 
